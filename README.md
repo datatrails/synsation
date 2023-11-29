@@ -1,2 +1,1 @@
-# synsation
-Sample Site
+# Sysnation Sample Site
